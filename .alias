@@ -1,0 +1,4 @@
+alias todo="cd ${HOME}/todoman && ./todoman todo.md"
+alias mc="cd ${HOME}/.minecraft && gamemoderun ./launcher/minecraft-launcher"
+
+alias cls="clear"
