@@ -1,0 +1,2 @@
+# .fuji
+Fuji dotfiles
