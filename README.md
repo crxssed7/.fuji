@@ -10,6 +10,7 @@
 - WM: bspwm
 - Hotkeys: sxhkd
 - Launcher: Rofi
+- Font: JetBrains Mono Nerd Font
 
 ## Screenshots
 ![Screenshot 1](/screenshots/screenshot_1.png)
