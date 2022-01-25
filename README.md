@@ -24,4 +24,4 @@
 - nano
 
 ## Credits:
-- Wallpaper: Unknown (post issue if known)
+- Wallpaper: Sparth. Original blog post: http://sparthconstruct.blogspot.com/2011/03/images-for-japan-des-images-pour-le.html
