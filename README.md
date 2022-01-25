@@ -24,4 +24,4 @@
 - nano
 
 ## Credits:
-- Wallpaper: Sparth. Original blog post: http://sparthconstruct.blogspot.com/2011/03/images-for-japan-des-images-pour-le.html
+- Wallpaper: Sparth. [Original blog post](http://sparthconstruct.blogspot.com/2011/03/images-for-japan-des-images-pour-le.html) [Instagram](https://instagram.com/sparth)
