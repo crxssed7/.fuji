@@ -1,7 +1,5 @@
 # .fuji
 
-![promo](promo.png)
-
 ## Arch Linux
 
 ## Setup:
